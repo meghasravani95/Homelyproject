@@ -1,0 +1,80 @@
+.footer
+{
+    margin: 0px auto;
+    background-color:#000000;
+        color: #ffffff;
+
+    
+}
+.footer h2{
+    
+    color: #ffffff;
+}
+
+/*.footer a{
+    
+    color: #A9A9A9;
+    font-size: 120%;
+}*/
+.footer h4{
+    
+    
+        color: #ffffff;
+    
+    
+}
+
+.header
+{
+    margin-bottom:55px;
+    
+  
+   
+}
+.chefimg {
+    background-image: url('../images/chef3.jpg');
+    background-size: 100%;
+    height: 950px;
+    opacity: 0.95;
+   }
+
+   .signupimg {
+    background-image: url('../images/signup.jpg');
+    background-size: 100%;
+    margin-top:10px;
+    height: 650px;
+   
+   }
+   .loginimg{
+    background-image: url('../images/login.png');
+    background-size: 100%;
+    height: 650px;
+    opacity: 0.95;
+   }
+   .bodywidth{
+       min-width: 100%;
+   }
+
+  
+   .carousel-caption {
+    margin-bottom:20%;
+    margin-bottom: 20%;
+    background: rgba(0,0,0,0.6);
+    padding: 50px 100px;
+}
+
+.carousel-caption h5{
+    font-size:40px;
+    
+}
+
+.carousel-caption p{
+    font-size:20px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD;
+    color: floralwhite;
+}
